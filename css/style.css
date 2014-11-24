@@ -270,8 +270,9 @@
 		.image.featured {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 200px;
-			height: auto;
+			width: 100%;
+			/*width: 200px;
+			height: auto;*/
 		}
 
 			.image.featured img {
