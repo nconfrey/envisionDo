@@ -420,6 +420,12 @@
 		opacity: 0.35;
 		overflow: hidden;
 		position: relative;
+		height: 100px;
+	}
+
+	ul.logos {
+		height: 10%;
+		position: relative;
 	}
 
 		ul.featured-icons li {
@@ -429,12 +435,23 @@
 			width: 50%;
 		}
 
+		ul.logos li {
+			display: block;
+			float: left;
+			text-align: center;
+		}
+
 			ul.featured-icons li .icon {
 				display: inline-block;
 				font-size: 6.25em;
 				height: 1.25em;
 				line-height: 1.25em;
 				width: 1em;
+			}
+
+			ul.logos li .images {
+				display: inline-block;
+				height: 10px;
 			}
 
 	ul.buttons {
