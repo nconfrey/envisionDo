@@ -600,7 +600,7 @@
 			background-repeat: no-repeat, no-repeat;
 			background-size: 25em, 25em;
 			color: white;
-			
+			text-align: left;
 		}
 
 			.wrapper.style2 .button:hover {
