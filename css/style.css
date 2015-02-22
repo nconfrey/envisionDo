@@ -110,6 +110,11 @@
 
 /* Section/Article */
 
+.schedule {
+	margin-top: -100px;
+	text-align: center;
+}
+
 	section.special, article.special {
 		text-align: center;
 	}
